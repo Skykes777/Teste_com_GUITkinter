@@ -1,1 +1,1 @@
-# Teste_com_GUITkinter
+# Testes e estudos usando tkinter para interface
